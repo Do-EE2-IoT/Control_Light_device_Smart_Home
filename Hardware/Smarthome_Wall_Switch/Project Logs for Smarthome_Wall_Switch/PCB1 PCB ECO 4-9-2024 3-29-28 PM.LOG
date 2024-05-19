@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=BT4-1
+Removed Pin From Net: NetName=BUTTON02 Pin=BT4-2
+Removed Pin From Net: NetName=ACL Pin=KF1-1
+Removed Pin From Net: NetName=ACN Pin=KF1-2
+Removed Pin From Net: NetName=BUTTON01 Pin=R15-1
+Removed Pin From Net: NetName=+3.3V_VIN Pin=R15-2
+Removed Pin From Net: NetName=BUTTON02 Pin=R16-1
+Removed Pin From Net: NetName=+3.3V_VIN Pin=R16-2
+Removed Member From Class: ClassName=Sheet1 Member=KF3
+Removed Member From Class: ClassName=Sheet1 Member=R17
+Change Component Designator: OldDesignator=BT3 NewDesignator=BT4
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=KF2 NewDesignator=KF1
+Change Component Designator: OldDesignator=KF3 NewDesignator=KF2
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Library : Designator=SD1 Old Library=My library altium.IntLib New Library=Altium_Lib_by_KhueNguyenCreator.IntLib
+Added Component: Designator=BT3(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT3-1
+Added Pin To Net: NetName=BUTTON02 Pin=BT3-2
+Change Net Name : Old Net Name=NetKF2_2 New Net Name=NetKF1_2
+Change Net Name : Old Net Name=NetKF3_2 New Net Name=NetKF2_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR12_1
+Added Net: Name=GND_EARTH
+Added Member To Class: ClassName=Sheet1 Member=Component C3 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 100uF
+Added Member To Class: ClassName=Sheet1 Member=Component LED3 LED SMD
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R3 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R10 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R12 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R13 10k

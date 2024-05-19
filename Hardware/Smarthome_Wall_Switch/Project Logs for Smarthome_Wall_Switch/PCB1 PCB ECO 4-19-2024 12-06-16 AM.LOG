@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=BT2-1
+Removed Pin From Net: NetName=GND Pin=BT2-1
+Removed Pin From Net: NetName=EN Pin=BT2-2
+Removed Pin From Net: NetName=EN Pin=BT2-2
+Added Component: Designator=P2(SW 2P SMD)
+Add component (AddParameter): Name = "Link"; Value = "https://ram-e-shop.com/product/press2pin-smd/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SMD Mini Push Button 2 SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=EN Pin=P2-2

@@ -1,0 +1,30 @@
+@url_dev = http://localhost:3005/v1/api
+
+### Manufactor Signup Device
+POST {{url_dev}}/manufactor/signup
+Content-Type: application/json
+
+{
+    "name":"Gateway",
+    "deviceID":"0x0002",
+    "type": 1
+}
+
+### Manufactor Get All Device Info
+GET {{url_dev}}/manufactor/alldevice
+
+### Manufactor Get One Device Info
+GET {{url_dev}}/manufactor/onedevice
+Content-Type: application/json
+
+{
+    "ID": "6620b9b3603d304e2e79873d"
+}
+
+### Manufactor Delete One Device Info
+GET {{url_dev}}/manufactor/deletedevice
+Content-Type: application/json
+
+{
+    "ID": "6620b9b3603d304e2e79873d"
+}

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=WIFI_STATUS Pin=ESP WROOM 1-26
+Added Pin To Net: NetName=WIFI_STATUS Pin=ESP WROOM 1-28

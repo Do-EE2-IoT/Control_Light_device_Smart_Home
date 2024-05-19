@@ -1,0 +1,26 @@
+@url_dev = http://localhost:3005/v1/api
+@access_token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjI2MzQwZDRjY2VkMDlkYTBkNzNlZWYiLCJpYXQiOjE3MTM3Nzk5MDUsImV4cCI6MTcxMzk1MjcwNX0.0XNgdMNIZmWMw_mv_zBTCtjcexxuB8ZY1MekBrxgsu8
+### User signup
+POST {{url_dev}}/access/user/signup
+Content-Type: application/json
+
+{
+    "name":"trinhcuong29720003",
+    "email":"trinhcuong2972003@gmail.com",
+    "password":"caocuong297"
+}
+
+### User login
+POST {{url_dev}}/access/user/login
+Content-Type: application/json
+
+{
+    "email":"trinhcuong2972003@gmail.com",
+    "password":"caocuong297"
+}
+
+### Get User Info
+GET {{url_dev}}/user/me/info
+CLIENT_ID: 6626340d4cced09da0d73eef
+ACCESS_TOKEN: {{access_token}}
+

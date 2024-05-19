@@ -1,0 +1,125 @@
+Removed Pin From Net: NetName=RELAY02 Pin=ESP WROOM 32-29
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=ESP WROOM 32 NewDesignator=ESP WROOM 1
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=R1 NewDesignator=R7
+Change Component Designator: OldDesignator=R2 NewDesignator=R12
+Change Component Designator: OldDesignator=R3 NewDesignator=R8
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R10
+Change Component Designator: OldDesignator=R6 NewDesignator=R13
+Change Component Designator: OldDesignator=R7 NewDesignator=R1
+Change Component Designator: OldDesignator=R8 NewDesignator=R2
+Change Component Designator: OldDesignator=R10 NewDesignator=R6
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R4
+Added Component: Designator=BT1(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=BT2(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=BT3(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=BT4(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(JP 1x5 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=R3(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=R17(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT2-1
+Added Pin To Net: NetName=GND Pin=BT3-1
+Added Pin To Net: NetName=GND Pin=BT4-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetAMS1_2 Pin=C4-1
+Added Pin To Net: NetName=NetAMS1_2 Pin=ESP WROOM 1-2
+Added Pin To Net: NetName=RELAY02 Pin=ESP WROOM 1-36
+Added Pin To Net: NetName=+5V_VIN Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-5
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetAMS1_2 Pin=R7-2
+Added Pin To Net: NetName=NetAMS1_2 Pin=R15-2
+Added Pin To Net: NetName=NetAMS1_2 Pin=R16-2
+Added Pin To Net: NetName=NetAMS1_2 Pin=R17-1
+Added Pin To Net: NetName=NetAMS1_2 Pin=SD1-1
+Change Net Name : Old Net Name=NetAMS1_2 New Net Name=+3.3V_VIN
+Change Net Name : Old Net Name=NetESP WROOM 32_24 New Net Name=NetESP WROOM 1_24
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED4_1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR10_1
+Added Pin To Net: NetName=BUTTON01 Pin=BT3-2
+Added Pin To Net: NetName=BUTTON01 Pin=ESP WROOM 1-30
+Added Pin To Net: NetName=BUTTON01 Pin=R15-1
+Added Net: Name=BUTTON01
+Added Pin To Net: NetName=BUTTON02 Pin=BT4-2
+Added Pin To Net: NetName=BUTTON02 Pin=ESP WROOM 1-31
+Added Pin To Net: NetName=BUTTON02 Pin=R16-1
+Added Net: Name=BUTTON02
+Added Pin To Net: NetName=EN Pin=BT2-2
+Added Pin To Net: NetName=EN Pin=ESP WROOM 1-3
+Added Pin To Net: NetName=EN Pin=R7-1
+Added Net: Name=EN
+Added Pin To Net: NetName=IO0 Pin=ESP WROOM 1-25
+Added Pin To Net: NetName=IO0 Pin=JP1-2
+Added Pin To Net: NetName=IO0 Pin=R17-2
+Added Net: Name=IO0
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=R3-2
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=RESET_CONFIG Pin=BT1-2
+Added Pin To Net: NetName=RESET_CONFIG Pin=ESP WROOM 1-16
+Added Net: Name=RESET_CONFIG
+Added Pin To Net: NetName=RX0 Pin=ESP WROOM 1-34
+Added Pin To Net: NetName=RX0 Pin=JP1-4
+Added Net: Name=RX0
+Added Pin To Net: NetName=TX0 Pin=ESP WROOM 1-35
+Added Pin To Net: NetName=TX0 Pin=JP1-3
+Added Net: Name=TX0
+Added Member To Class: ClassName=Sheet1 Member=Component BT1 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=Sheet1 Member=Component BT2 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=Sheet1 Member=Component BT3 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=Sheet1 Member=Component BT4 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x5 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component R14 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R15 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R16 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R17 10k
+Added Room: Name=Sheet1

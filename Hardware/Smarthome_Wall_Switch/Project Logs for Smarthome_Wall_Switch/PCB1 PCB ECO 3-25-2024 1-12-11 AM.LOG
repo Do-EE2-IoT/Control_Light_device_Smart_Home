@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=C/S_MODE Pin=ESP WROOM 32-13
+Added Component: Designator=R13(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=C/S_MODE Pin=R13-1
+Change Net Name : Old Net Name=C/S_MODE New Net Name=GND
+Added Pin To Net: NetName=C/S_MODE Pin=ESP WROOM 32-13
+Added Pin To Net: NetName=C/S_MODE Pin=R13-2
+Added Net: Name=C/S_MODE
+Added Member To Class: ClassName=Sheet1 Member=Component R13 1k

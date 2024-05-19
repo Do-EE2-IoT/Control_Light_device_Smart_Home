@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=BUTTON02 Pin=BT3-2
+Removed Pin From Net: NetName=BUTTON01 Pin=BT4-2
+Change Component Footprint: Designator=BT1 Old Footprint=Nut Nhan 2 Chan SMD 3x6x2.5 New Footprint=Nut Nhan 4 Chan Cam 6x6
+Change Component Footprint: Designator=BT2 Old Footprint=Nut Nhan 2 Chan SMD 3x6x2.5 New Footprint=Nut Nhan 4 Chan Cam 6x6
+Change Component Footprint: Designator=BT3 Old Footprint=Nut Nhan 2 Chan SMD 3x6x2.5 New Footprint=Nut Nhan 4 Chan Cam 6x6
+Change Component Footprint: Designator=BT4 Old Footprint=Nut Nhan 2 Chan SMD 3x6x2.5 New Footprint=Nut Nhan 4 Chan Cam 6x6
+Change Component Comment : Designator=BT1 Old Comment=Nut Nhan 2 Chan SMD 3x6x2.5 New Comment=Nut Nhan 4 Chan Cam 6x6
+Change Component Comment : Designator=BT2 Old Comment=Nut Nhan 2 Chan SMD 3x6x2.5 New Comment=Nut Nhan 4 Chan Cam 6x6
+Change Component Comment : Designator=BT3 Old Comment=Nut Nhan 2 Chan SMD 3x6x2.5 New Comment=Nut Nhan 4 Chan Cam 6x6
+Change Component Comment : Designator=BT4 Old Comment=Nut Nhan 2 Chan SMD 3x6x2.5 New Comment=Nut Nhan 4 Chan Cam 6x6
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "Nut Nhan 2 Chan SMD 3x6x2.5"; UniqueID = "\QBCPTYLU" ("\QBCPTYLU")
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004584"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten"; Value = "Nút Nh?n 4 Chân 6x6x5MM DIP"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BT2" ("BT2"); Footprint = "Nut Nhan 2 Chan SMD 3x6x2.5"; UniqueID = "\SZEOWARJ" ("\SZEOWARJ")
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004584"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten"; Value = "Nút Nh?n 4 Chân 6x6x5MM DIP"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BT3" ("BT3"); Footprint = "Nut Nhan 2 Chan SMD 3x6x2.5"; UniqueID = "\OUYQRHKI" ("\OUYQRHKI")
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004584"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten"; Value = "Nút Nh?n 4 Chân 6x6x5MM DIP"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BT4" ("BT4"); Footprint = "Nut Nhan 2 Chan SMD 3x6x2.5"; UniqueID = "\OURGGWMB" ("\OURGGWMB")
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004584"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten"; Value = "Nút Nh?n 4 Chân 6x6x5MM DIP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BUTTON01 Pin=BT3-2
+Added Pin To Net: NetName=BUTTON01 Pin=BT3-2
+Added Pin To Net: NetName=BUTTON02 Pin=BT4-2
+Added Pin To Net: NetName=BUTTON02 Pin=BT4-2
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x2 2.54
+Added Room: Name=Sheet1

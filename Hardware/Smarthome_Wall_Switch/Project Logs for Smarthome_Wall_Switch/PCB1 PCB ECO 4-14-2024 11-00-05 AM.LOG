@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3.3V_VIN Pin=SD1-1
+Removed Member From Class: ClassName=Sheet1 Member=SD1
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP2
+Added Component: Designator=JP1(JP 1x2 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V_VIN Pin=JP1-1
+Added Pin To Net: NetName=C/S_MODE Pin=JP1-2
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 JP 1x5 2.54
+Added Room: Name=Sheet1

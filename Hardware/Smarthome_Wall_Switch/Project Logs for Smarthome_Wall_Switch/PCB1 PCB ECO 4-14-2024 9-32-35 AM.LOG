@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ACL Pin=F1-2
+Removed Pin From Net: NetName=ACN Pin=MOV1-2
+Removed Pin From Net: NetName=ACN Pin=P1-2
+Removed Pin From Net: NetName=ACL Pin=P1-3
+Removed Pin From Net: NetName=ACN Pin=U1-2
+Added Pin To Net: NetName=ACN Pin=F1-2
+Added Pin To Net: NetName=ACL Pin=MOV1-2
+Added Pin To Net: NetName=ACL Pin=P1-2
+Added Pin To Net: NetName=ACN Pin=P1-3
+Added Pin To Net: NetName=ACL Pin=U1-2
+Added Room: Name=Sheet1

@@ -1,0 +1,17 @@
+Added Component: Designator=LED3(SM-LED-0805-Blue)
+Added Component: Designator=R8(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=C/S_MODE Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R8-1
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=WIFI_STATUS Pin=ESP WROOM 32-26
+Added Pin To Net: NetName=WIFI_STATUS Pin=R8-2
+Added Net: Name=WIFI_STATUS
+Added Member To Class: ClassName=Sheet1 Member=Component LED3 LED SMD
+Added Member To Class: ClassName=Sheet1 Member=Component R8 1k

@@ -1,0 +1,41 @@
+@url_dev = http://localhost:3005/v1/api
+
+### User Signup Device (using postman only)
+POST {{url_dev}}/device/claim
+CLIENT_ID: 65ec0c1c0d85317cfb2a9b00
+ACCESS_TOKEN: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NWVjMGMxYzBkODUzMTdjZmIyYTliMDAiLCJpYXQiOjE3MTIyMDg0MDEsImV4cCI6MTcxMjM4MTIwMX0.v0lFGeIpjZv_XA7vvNFqgwyb-SUkNf2BZvFmxqMmz9E
+
+{
+    "deviceID":"0x0002",
+    "userID":"65ec0c1c0d85317cfb2a9b00",
+}
+
+### User Delete Device (using postman only)
+DELETE {{url_dev}}/device/delete
+CLIENT_ID: 65ec0c1c0d85317cfb2a9b00
+ACCESS_TOKEN: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjBlNmQzZTg3MzEwMjM3MDI5NjUwZWQiLCJpYXQiOjE3MTIyMjE1NTcsImV4cCI6MTcxMjM5NDM1N30.imUiKnpELplsDwrbwlSwcSahZ-NKgLof4n64RwcCW9w
+
+{
+    "deviceID":"1234",
+    "userID":"65ec0c1c0d85317cfb2a9b00",
+}
+
+### Get all device (using postman only)
+GET {{url_dev}}/device/alldevice
+CLIENT_ID: 65ec0c1c0d85317cfb2a9b00
+ACCESS_TOKEN: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NWVjMGMxYzBkODUzMTdjZmIyYTliMDAiLCJpYXQiOjE3MTIyMDk1MDksImV4cCI6MTcxMjM4MjMwOX0.zyH0OTRBHjwoe4hBIX_VNw48q8ckv7TBsz3dBCWuZdQ
+
+### Get one device (using postman only)
+GET {{url_dev}}/device/onedevice/1234
+CLIENT_ID: 65ec0c1c0d85317cfb2a9b00
+ACCESS_TOKEN: veadvtvsrgtbes
+
+### Control device
+PATCH {{url_dev}}/device/control/0x0003
+CLIENT_ID: 6626340d4cced09da0d73eef
+ACCESS_TOKEN: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjI2MzQwZDRjY2VkMDlkYTBkNzNlZWYiLCJpYXQiOjE3MTM5NzgyMjMsImV4cCI6MTcxNDE1MTAyM30.0BS3ULl_E8LtnTGfpJOeqy7_n-JScM370E4EmOsiyU4
+Content-Type: application/json
+
+{
+    "value":"1"
+}

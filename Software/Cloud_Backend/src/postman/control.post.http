@@ -1,0 +1,38 @@
+@url_dev = http://localhost:5000/v1/api
+
+### Manufactor Get All Device Info
+GET {{url_dev}}/manufactor/alldevice
+
+### Manufactor Signup Device
+POST {{url_dev}}/manufactor/signup
+Content-Type: application/json
+
+{
+    "name":"Switch",
+    "ID":"1234",
+    "type": 1
+}
+
+### Manufactor Get One Device Info
+GET {{url_dev}}/manufactor/onedevice
+Content-Type: application/json
+
+{
+    "ID": "6604e31614caa88db58b1ccf"
+}
+
+### Manufactor Get One Device Info
+GET {{url_dev}}/manufactor/onedevice
+Content-Type: application/json
+
+{
+    "ID": "6604e31614caa88db58b1ccf"
+}
+
+### Manufactor Delete One Device Info
+GET {{url_dev}}/manufactor/deletedevice
+Content-Type: application/json
+
+{
+    "ID": "6604e31614caa88db58b1ccf"
+}

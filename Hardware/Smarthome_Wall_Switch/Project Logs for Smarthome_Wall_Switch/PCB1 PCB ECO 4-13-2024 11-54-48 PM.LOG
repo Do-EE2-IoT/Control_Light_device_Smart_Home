@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=CON1 Pin=D3-2
+Removed Pin From Net: NetName=ACL Pin=D3-4
+Removed Pin From Net: NetName=CON1 Pin=D4-2
+Removed Pin From Net: NetName=ACL Pin=D4-4
+Removed Pin From Net: NetName=NetD4_1 Pin=D6-2
+Removed Pin From Net: NetName=NetD4_1 Pin=R17-2
+Removed Member From Class: ClassName=Sheet1 Member=D5
+Removed Member From Class: ClassName=Sheet1 Member=D6
+Change Component Footprint: Designator=D4 Old Footprint=DIODE CAU 1A SMD SOP4 New Footprint=DIODE ZENNER SMD SOD80
+Change Component Comment : Designator=D4 Old Comment=1A 1000V New Comment=5.1V
+Change Component Designator: OldDesignator=D5 NewDesignator=D3
+Change component parameters: Designator = "D4" ("D4"); Footprint = "DIODE CAU 1A SMD SOP4"; UniqueID = "\CRMDZCPS" ("\CRMDZCPS")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002881"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode Zener 1/2W 5.1V SMD1206 ZMM5.1"; VariantName = "[No Variations]"
+Added Component: Designator=DB1(DIODE CAU 6A CAM)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "c?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode C?u 6A 1000V KBL610"; VariantName = "[No Variations]"
+Added Component: Designator=DB2(DIODE CAU 6A CAM)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "c?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode C?u 6A 1000V KBL610"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ACL Pin=DB1-2
+Added Pin To Net: NetName=CON1 Pin=DB1-3
+Added Pin To Net: NetName=ACL Pin=DB2-2
+Added Pin To Net: NetName=CON1 Pin=DB2-3
+Added Pin To Net: NetName=NetD4_1 Pin=R22-2
+Added Pin To Net: NetName=NetD4_1 Pin=U5-2
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=DB1-1
+Added Pin To Net: NetName=NetD3_2 Pin=R16-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=DB2-1
+Added Pin To Net: NetName=NetD4_2 Pin=R17-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetDB1_4 Pin=DB1-4
+Added Pin To Net: NetName=NetDB1_4 Pin=R21-1
+Added Net: Name=NetDB1_4
+Added Pin To Net: NetName=NetDB2_4 Pin=DB2-4
+Added Pin To Net: NetName=NetDB2_4 Pin=R22-1
+Added Net: Name=NetDB2_4
+Added Member To Class: ClassName=Sheet1 Member=Component DB1 6A 1000V
+Added Member To Class: ClassName=Sheet1 Member=Component DB2 6A 1000V
+Added Member To Class: ClassName=Sheet1 Member=Component R16 10k
+Added Room: Name=Sheet1

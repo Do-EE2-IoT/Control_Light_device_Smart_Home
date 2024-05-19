@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=BT3 NewDesignator=BT2
+Change Component Designator: OldDesignator=BT4 NewDesignator=BT3
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP1
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP2
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=R17 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R17
+Added Component: Designator=P1(HDR1X3)
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN Pin=P1-1
+Added Pin To Net: NetName=+3.3V_VIN Pin=P1-2
+Added Pin To Net: NetName=C/S_MODE Pin=P1-3
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR17_2

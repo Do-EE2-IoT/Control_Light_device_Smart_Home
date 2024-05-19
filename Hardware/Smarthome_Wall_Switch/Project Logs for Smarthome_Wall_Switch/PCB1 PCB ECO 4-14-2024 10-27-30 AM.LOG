@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=+3.3V_VIN Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=NetF1_1 Pin=U1-1
+Removed Pin From Net: NetName=ACL Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=+5V_VIN Pin=U1-4
+Removed Member From Class: ClassName=Sheet1 Member=C3
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Change Component Comment : Designator=C2 Old Comment=10uF New Comment=22uF
+Added Component: Designator=C?(tu nhom 6.3 (d))
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002219"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Nhôm 100uF 16V 6.3x5.4MM"; VariantName = "[No Variations]"
+Added Component: Designator=PS(Nguon HI-LINK 5M05)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hi-link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HLK-5M05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HLK-5M05/Hi-link/view-part/2758659/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_VIN Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetF1_1 Pin=PS-1
+Added Pin To Net: NetName=ACL Pin=PS-2
+Added Pin To Net: NetName=GND Pin=PS-3
+Added Pin To Net: NetName=+5V_VIN Pin=PS-4
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100uF
+Added Member To Class: ClassName=Sheet1 Member=Component PS Nguon Hi-Link HLK-5M05
+Added Room: Name=Sheet1

@@ -1,0 +1,5 @@
+Added Component: Designator=SD1(DIP2/W0.3K)
+Add component (AddParameter): Name = "Value"; Value = "SW - DIP2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V_VIN Pin=SD1-1
+Added Member To Class: ClassName=Sheet1 Member=Component SD1 SW - DIP2
+Added Room: Name=Sheet1

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=RESET_CONFIG Pin=ESP WROOM 1-16
+Added Pin To Net: NetName=RESET_CONFIG Pin=ESP WROOM 1-33

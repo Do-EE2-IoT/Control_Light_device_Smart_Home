@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=V_RELAY2 Pin=ESP WROOM 1-11
+Removed Pin From Net: NetName=BUTTON01 Pin=ESP WROOM 1-30
+Removed Pin From Net: NetName=BUTTON02 Pin=ESP WROOM 1-31
+Added Pin To Net: NetName=V_RELAY2 Pin=ESP WROOM 1-30
+Added Pin To Net: NetName=BUTTON01 Pin=ESP WROOM 1-31
+Added Pin To Net: NetName=BUTTON02 Pin=ESP WROOM 1-32

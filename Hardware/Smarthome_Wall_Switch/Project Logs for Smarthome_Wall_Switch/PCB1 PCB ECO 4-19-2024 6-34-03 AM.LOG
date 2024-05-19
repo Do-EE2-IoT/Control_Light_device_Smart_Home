@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=RELAY02 Pin=ESP WROOM 1-36
+Added Pin To Net: NetName=RELAY02 Pin=ESP WROOM 1-26
